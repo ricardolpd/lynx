@@ -43,6 +43,9 @@
 .link-facebook {
   background-color: #1877f2;
 }
+.link-facebook-messenger {
+  @apply bg-primary-700 text-white hover:brightness-90;
+}
 .link-flickr {
   background-color: #ff0184;
 }
